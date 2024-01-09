@@ -1,7 +1,7 @@
 # Hello! This is Cyril!
 
 ## About Me
-I'm a freshman majoring in computer science, diving into the world of systematic learning. Currently, I am passionate about exploring the field of cybersecurity, equipped with a solid foundation in C++ and algorithmic competition skills.
+I'm a freshman majoring in computer science. Currently, I am passionate about exploring the field of cybersecurity, equipped with a solid foundation in C++ and algorithmic competition skills.
 
 ## Skills
 - **Programming Languages:** C++
