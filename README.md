@@ -1,4 +1,4 @@
-# Hello! T
+# Hello! 
 
 ## About Me
 I'm a freshman majoring in computer science. Currently, I am passionate about exploring the field of cybersecurity, equipped with a solid foundation in C++ and algorithmic competition skills.
